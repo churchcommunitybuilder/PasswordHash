@@ -1,0 +1,7 @@
+{
+	"name": "ccb/phpass",
+	"description": "Clone of phpass PasswordHash class",
+	"autoload": {
+		"classmap": [ "PasswordHash.php" ]
+	}
+}
